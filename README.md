@@ -14,8 +14,8 @@ A mobile application built with React Native that allows users to capture, save 
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Architecture](#architecture)
 - [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
 
 ## Installation
 
