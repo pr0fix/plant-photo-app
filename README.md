@@ -95,20 +95,20 @@ The app follows a component-based architecture with:
 ## Screenshots
 
 #### List View
-<img src="src/assets/empty_listview.jpg" alt="empty list view" height="auto" width="300px"/>
-<img src="src/assets/listview_with_plants.jpg" alt="list view with plants" height="auto" width="300px"/>
+<kbd><img src="src/assets/empty_listview.jpg" alt="empty list view" height="auto" width="300px"/></kbd>
+<kbd><img src="src/assets/listview_with_plants.jpg" alt="list view with plants" height="auto" width="300px"/></kbd>
 
 #### Scan View
-<img src="src/assets/grant_permissions.jpg" alt="grant permissions page" height="auto" width="300px"/>
-<img src="src/assets/scan_view.jpg" alt="scan view/camera" height="auto" width="300px"/>
+<kbd><img src="src/assets/grant_permissions.jpg" alt="grant permissions page" height="auto" width="300px"/></kbd>
+<kbd><img src="src/assets/scan_view.jpg" alt="scan view/camera" height="auto" width="300px"/></kbd>
 
 #### Photo Preview & Add Details View
-<img src="src/assets/photo_preview.jpg" alt="photo preview" height="auto" width="300px"/>
-<img src="src/assets/plant_details_form.jpg" alt="plant details form" height="auto" width="300px"/>
+<kbd><img src="src/assets/photo_preview.jpg" alt="photo preview" height="auto" width="300px"/></kbd>
+<kbd><img src="src/assets/plant_details_form.jpg" alt="plant details form" height="auto" width="300px"/></kbd>
 
 #### Plant Detail/Edit View
-<img src="src/assets/detail_view.jpg" alt="plant details form" height="auto" width="300px"/>
+<kbd><img src="src/assets/detail_view.jpg" alt="plant details form" height="auto" width="300px"/></kbd>
 
 #### Profile & Settings
-<img src="src/assets/profile_page.jpg" alt="photo preview" height="auto" width="300px"/>
-<img src="src/assets/settings_page.jpg" alt="plant details form" height="auto" width="300px"/>
+<kbd><img src="src/assets/profile_page.jpg" alt="photo preview" height="auto" width="300px"/></kbd>
+<kbd><img src="src/assets/settings_page.jpg" alt="plant details form" height="auto" width="300px"/></kbd>
